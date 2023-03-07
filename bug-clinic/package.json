@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "jstrace": "^0.3.0",
-    "replify": "^1.2.0",
-    "stackup": "^1.0.2"
-  }
-}
